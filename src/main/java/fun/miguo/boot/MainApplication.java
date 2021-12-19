@@ -35,6 +35,7 @@ public class MainApplication {
 //        }
 
         System.out.println(run.containsBean("user01"));
+        System.out.println("hotfix test");
 
     }
 
